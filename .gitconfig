@@ -1,0 +1,14 @@
+[core]
+        abbrev = 12
+	editor = vim
+[color]
+	ui = auto
+[user]
+	name = Gianluca Borello
+	email = g.borello@gmail.com
+[branch]
+	autosetuprebase = always
+[pull]
+	rebase = true
+[credential]
+	helper = store
