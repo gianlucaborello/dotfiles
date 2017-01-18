@@ -12,3 +12,8 @@
 	rebase = true
 [credential]
 	helper = store
+[sendemail]
+	smtpEncryption = tls
+	smtpServer = smtp.gmail.com
+	smtpUser = g.borello@gmail.com
+	smtpServerPort = 587
