@@ -1,12 +1,12 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "workbench.activityBar.visible": false,
-    "editor.tabSize": 8,
-    "extensions.autoUpdate": true,
-    "window.reopenFolders": "all",
-    "window.showFullPath": true,
-    "git.confirmSync": false,
-    "window.zoomLevel": 0,
-    "editor.renderWhitespace": "boundary",
-    "git.autofetch": false
+        "workbench.activityBar.visible": false,
+        "editor.tabSize": 8,
+        "editor.renderWhitespace": "all",
+        "git.confirmSync": false,
+        "workbench.startupEditor": "none",
+        "java.errors.incompleteClasspath.severity": "ignore",
+        "editor.wordWrap": "on",
+        "window.restoreWindows": "all",
+        "window.newWindowDimensions": "maximized"
 }

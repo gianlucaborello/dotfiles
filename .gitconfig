@@ -1,8 +1,6 @@
 [core]
         abbrev = 12
 	editor = vim
-[color]
-	ui = auto
 [user]
 	name = Gianluca Borello
 	email = g.borello@gmail.com
@@ -17,3 +15,5 @@
 	smtpServer = smtp.gmail.com
 	smtpUser = g.borello@gmail.com
 	smtpServerPort = 587
+[rebase]
+	autoStash = true
