@@ -1,12 +1,20 @@
-// Place your settings in this file to overwrite the default settings
 {
-        "workbench.activityBar.visible": false,
-        "editor.tabSize": 8,
+        "C_Cpp.intelliSenseEngine": "Tag Parser",
         "editor.renderWhitespace": "all",
+        "editor.tabSize": 8,
+        "explorer.confirmDelete": false,
+        "extensions.ignoreRecommendations": false,
+        "files.insertFinalNewline": true,
+        "files.trimFinalNewlines": true,
+        "files.trimTrailingWhitespace": true,
         "git.confirmSync": false,
-        "workbench.startupEditor": "none",
+        "git.enableSmartCommit": true,
+        "gitlens.blame.line.enabled": false,
+        "gitlens.codeLens.authors.enabled": false,
+        "gitlens.codeLens.recentChange.enabled": false,
         "java.errors.incompleteClasspath.severity": "ignore",
-        "editor.wordWrap": "on",
+        "window.newWindowDimensions": "maximized",
         "window.restoreWindows": "all",
-        "window.newWindowDimensions": "maximized"
+        "window.zoomLevel": 0,
+        "workbench.startupEditor": "none"
 }
