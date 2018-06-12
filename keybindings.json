@@ -7,5 +7,9 @@
         {
                 "key": "shift+cmd+[",
                 "command": "workbench.action.showPreviousWindowTab"
+        },
+        {
+                "key": "ctrl+`",
+                "command": "workbench.action.terminal.focus"
         }
 ]
