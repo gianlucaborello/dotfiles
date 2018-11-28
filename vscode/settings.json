@@ -42,7 +42,7 @@
         "window.openFoldersInNewWindow": "on",
         "window.restoreWindows": "all",
         "window.zoomLevel": 0,
-        "workbench.activityBar.visible": false,
+        "workbench.editor.highlightModifiedTabs": true,
         "workbench.settings.editor": "json",
         "workbench.startupEditor": "none",
         "workbench.statusBar.feedback.visible": false,
