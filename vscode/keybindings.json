@@ -10,7 +10,7 @@
         },
         {
                 "key": "ctrl+shift+p",
-                "command": "gitlens.showGitExplorer"
+                "command": "gitlens.showRepositoriesView"
         },
         {
                 "key": "alt+cmd+b",
